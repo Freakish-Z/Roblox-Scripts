@@ -2,7 +2,7 @@
 All scripts I find that work with wind are posted here.
 
 # What is wind.
-A working Roblox Exploit Post Byfron. discord.gg/getwind
+A working Roblox Exploit Post Byfron. https://discord.gg/getwind
 
 # Is wind Released
 Yes
